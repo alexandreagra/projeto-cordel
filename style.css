@@ -80,6 +80,12 @@ section.normal{
     color: black;
 }
 
+section.normal2{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
 section.imagem{
     background-color: rgba(51, 51, 51);
     color: white;
